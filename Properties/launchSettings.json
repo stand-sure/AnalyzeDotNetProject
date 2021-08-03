@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "AnalyzeDotNetProject": {
+      "commandName": "Project",
+      "commandLineArgs": "C:\\Users\\anderson\\source\\repos\\policies-services\\src\\Services"
+    }
+  }
+}
