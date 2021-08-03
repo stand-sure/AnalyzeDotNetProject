@@ -1,4 +1,4 @@
-﻿namespace AnalyzeDotNetProject
+namespace AnalyzeDotNetProject
 {
     using System;
     using System.Linq;
@@ -16,7 +16,7 @@
             if (args.Length == 0)
             {
                 Console.ForegroundColor = ConsoleColor.DarkRed;
-                Console.WriteLine("Please provide a path to the project to analyze.");
+                Console.WriteLine("Please provide a path to the folder containing project or solution file to analyze.");
 
                 return;
             }
